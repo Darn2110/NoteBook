@@ -1,7 +1,0 @@
-C:\Users\sasha\source\repos\Note\Note\bin\Debug\Note.exe.config
-C:\Users\sasha\source\repos\Note\Note\bin\Debug\Note.exe
-C:\Users\sasha\source\repos\Note\Note\bin\Debug\Note.pdb
-C:\Users\sasha\source\repos\Note\Note\obj\Debug\Note.csprojAssemblyReference.cache
-C:\Users\sasha\source\repos\Note\Note\obj\Debug\Note.csproj.CoreCompileInputs.cache
-C:\Users\sasha\source\repos\Note\Note\obj\Debug\Note.exe
-C:\Users\sasha\source\repos\Note\Note\obj\Debug\Note.pdb
